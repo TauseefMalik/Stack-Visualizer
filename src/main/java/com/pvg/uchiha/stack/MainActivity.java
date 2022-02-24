@@ -1,4 +1,3 @@
-//By - Abdulla Pathan
 package com.pvg.uchiha.stack;
 
 import android.support.v7.app.AppCompatActivity;
